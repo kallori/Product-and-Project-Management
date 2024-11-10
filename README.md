@@ -1,5 +1,8 @@
 # Product and Project Management
-#All templates created for product management
+#All templates created for product and project management
+
+$cloud migration product strategy.pptx- this is the consolidated list of all work done for the migration project
+
 
 Cloud Migration Project
 
