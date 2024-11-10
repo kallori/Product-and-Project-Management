@@ -1,8 +1,14 @@
 # Product and Project Management
 #All templates created for product and project management
 
+PRODUCT MANAGEMENT
+
 $cloud migration product strategy.pptx- this is the consolidated list of all work done for the migration project
 
+PROJECT MANAGEMENT
+$Copy Master_Change_ProjectManagement_PowerPoint_ENG.pptx-- this is the consolidated list of all work done for the migration project
+
+Summary:
 
 Cloud Migration Project
 
