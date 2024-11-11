@@ -3,13 +3,13 @@
 
 PRODUCT MANAGEMENT
 
-$cloud migration product strategy.pptx- this is the consolidated list of all work done for the migration project
+$$Cloud Migration Product Strategy.pptx- this is the consolidated list of all work done for the migration project
 
 PROJECT MANAGEMENT
 
-$Copy Master_Change_ProjectManagement_PowerPoint_ENG.pptx-- this is the consolidated list of all work done for the migration project
+$Cloud Migration Project_Management.pptx-- this is the consolidated list of all work done for the migration project
 
-$Project Dashboards: KPI and reports for executives
+$Project Dashboard and Reports: KPI and reports for executives
 
 
 Summary:
